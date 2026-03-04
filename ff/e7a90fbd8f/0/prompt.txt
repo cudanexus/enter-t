@@ -1,0 +1,29 @@
+crater a hellow.py
+
+---
+
+add hello muisaffa
+
+---
+
+cahnge it to mustafa
+
+---
+
+crateer a new file for function example
+
+---
+
+run it
+
+---
+
+modify the code from hellow mustaf to hello syed
+
+---
+
+also change the function names
+
+---
+
+greet to welcom add to addition multi

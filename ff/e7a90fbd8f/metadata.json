@@ -1,0 +1,27 @@
+{
+  "cli_version": "dev",
+  "checkpoint_id": "ffe7a90fbd8f",
+  "strategy": "manual-commit",
+  "branch": "master",
+  "checkpoints_count": 3,
+  "files_touched": [
+    "function_example.py",
+    "hellow.py"
+  ],
+  "sessions": [
+    {
+      "metadata": "/ff/e7a90fbd8f/0/metadata.json",
+      "transcript": "/ff/e7a90fbd8f/0/full.jsonl",
+      "context": "/ff/e7a90fbd8f/0/context.md",
+      "content_hash": "/ff/e7a90fbd8f/0/content_hash.txt",
+      "prompt": "/ff/e7a90fbd8f/0/prompt.txt"
+    }
+  ],
+  "token_usage": {
+    "input_tokens": 86,
+    "cache_creation_tokens": 8580,
+    "cache_read_tokens": 227582,
+    "output_tokens": 1424,
+    "api_call_count": 10
+  }
+}
