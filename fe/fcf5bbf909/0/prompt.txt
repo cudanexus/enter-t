@@ -1,0 +1,17 @@
+crater a hellow.py
+
+---
+
+add hello muisaffa
+
+---
+
+cahnge it to mustafa
+
+---
+
+crateer a new file for function example
+
+---
+
+run it
