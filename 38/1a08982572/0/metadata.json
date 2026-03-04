@@ -1,0 +1,50 @@
+{
+  "cli_version": "dev",
+  "checkpoint_id": "381a08982572",
+  "session_id": "d0aa0466-065e-41f9-bbcb-4ae3f3846af5",
+  "strategy": "manual-commit",
+  "created_at": "2026-03-04T02:12:24.928298297Z",
+  "branch": "master",
+  "checkpoints_count": 1,
+  "files_touched": [
+    "hello.txt"
+  ],
+  "agent": "Claude Code",
+  "turn_id": "85b0655f8e52",
+  "token_usage": {
+    "input_tokens": 18,
+    "cache_creation_tokens": 10569,
+    "cache_read_tokens": 31039,
+    "output_tokens": 215,
+    "api_call_count": 2
+  },
+  "summary": {
+    "intent": "The user wanted to create a new file named hello.txt on their desktop test directory.",
+    "outcome": "A file named hello.txt was successfully created at /home/syed/Desktop/test/hello.txt with 'Hello, World!' as its content.",
+    "learnings": {
+      "repo": [],
+      "code": [
+        {
+          "path": "hello.txt",
+          "line": 1,
+          "end_line": 1,
+          "finding": "File contains a simple 'Hello, World!' string as its content."
+        }
+      ],
+      "workflow": [
+        "The Write tool was used to create the file directly at an absolute path on the user's Desktop."
+      ]
+    },
+    "friction": [],
+    "open_items": []
+  },
+  "initial_attribution": {
+    "calculated_at": "2026-03-04T02:12:18.015447239Z",
+    "agent_lines": 1,
+    "human_added": 0,
+    "human_modified": 0,
+    "human_removed": 0,
+    "total_committed": 1,
+    "agent_percentage": 100
+  }
+}
