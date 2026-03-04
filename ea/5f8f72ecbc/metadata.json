@@ -1,0 +1,26 @@
+{
+  "cli_version": "dev",
+  "checkpoint_id": "ea5f8f72ecbc",
+  "strategy": "manual-commit",
+  "branch": "master",
+  "checkpoints_count": 1,
+  "files_touched": [
+    "apple.txt"
+  ],
+  "sessions": [
+    {
+      "metadata": "/ea/5f8f72ecbc/0/metadata.json",
+      "transcript": "/ea/5f8f72ecbc/0/full.jsonl",
+      "context": "/ea/5f8f72ecbc/0/context.md",
+      "content_hash": "/ea/5f8f72ecbc/0/content_hash.txt",
+      "prompt": "/ea/5f8f72ecbc/0/prompt.txt"
+    }
+  ],
+  "token_usage": {
+    "input_tokens": 18,
+    "cache_creation_tokens": 10577,
+    "cache_read_tokens": 31049,
+    "output_tokens": 228,
+    "api_call_count": 2
+  }
+}
